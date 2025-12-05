@@ -1,0 +1,1 @@
+This project utilizes three csv files that form a star schema with stores "data-set.csv" at the center. We analyze completeness, consistency and validity. Make sure to have python and jupyter installed to run the ipynb file although the results are already saved so no need to run it again.
